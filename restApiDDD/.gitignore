@@ -3,7 +3,7 @@
 
 ### Eclipse ###
 .metadata
-.applications/app-service/src/main/resources
+applications/app-service/src/main/resources
 bin/
 tmp/
 *.tmp
